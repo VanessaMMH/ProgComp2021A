@@ -1,0 +1,15 @@
+7. Explique qué es lo que hace el siguiente código ((n & (n-1)) == 0)
+
+El siguiente enunciado nos ayuda para averiguar si un numero es potencia de 2.
+Primero: Al numero se le debe convertir en su forma binaria y de forma respectiva con
+la diferencia  de menos 1.
+Segundo : A las expresiones halladas  se le aplica el operador AND
+Tercero : Si el resultado nos da puros ceros entonces es potencia de 2 de lo contrario no lo es
+
+
+Ejemplo:
+
+n      n    n-1   n&(n-1)
+4   0100   0011    0000  // Si es potencia de 2 
+5   0101   0100    0100 
+
