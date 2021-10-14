@@ -7,7 +7,7 @@ Dado un array que contiene números enteros positivos y negativos. Encuentre
 la mayor suma de sus subarrays
 */
 
-int mayor_sum(vector <int> v){
+int mayor_sum(vector <int>& v){
     int mayor_suma = v[0];
     int suma = 0;
     for (int i = 0; i < v.size(); i++){
