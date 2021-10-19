@@ -1,3 +1,4 @@
 # Universidad Nacional de San Agustin
-## Programacion Competitiva Grupo: A
-### Alumna: Macedo Huaman Vanessa Mayra
+## Ciencia de la Computacion 
+### Programación Competitiva Grupo: A
+Alumna: Macedo Huaman Vanessa Mayra
